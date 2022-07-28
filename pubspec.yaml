@@ -61,11 +61,3 @@ flutter:
 
   assets:
     - assets/
-
-
-  git init
-  git add .
-  git commit -m "init commit"
-  git branch -M master
-  git remote add origin https://github.com/ajaykumargithub2114/flutter_lottie.git
-  git push -u origin master
